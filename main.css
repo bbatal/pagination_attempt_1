@@ -1,0 +1,11 @@
+.paginate a{
+    position: relative;
+    top: 250px;
+    text-decoration: none;
+    color: red;
+    left: 150px;
+}
+
+.paginate a:hover{
+    color: purple;
+}
